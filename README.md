@@ -1,2 +1,1 @@
-# m-t750-v5-docs-product
-M-T750-V5 product documentation candidate with stale duplicates.
+# Product docs — M-T750-V5\nUseful onboarding and pricing explanations. Links point to legacy app routes and require reconciliation.

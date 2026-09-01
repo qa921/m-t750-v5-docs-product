@@ -1,0 +1,1 @@
+Onboarding guide; stale link: /legacy-onboarding; compare before copying.
